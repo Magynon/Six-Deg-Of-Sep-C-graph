@@ -1,6 +1,6 @@
 # Ștefan MĂGIRESCU
 
-## SD - tema 3 - MovieGraph
+## MovieGraph
 
 </br>
 In designing the graph, I first read the data in a special collection struct that has the following format:
